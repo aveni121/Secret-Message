@@ -1,1 +1,2 @@
 # Secret-Message
+ Initially, the user will be prompted to enter a “filename.txt”. If the user chose to encode, the encoded message and a unique user key is displayed. If the user chose to decode, the program will prompt the user to enter the user key which will be used to decode the message. In all cases, the user has an option to save the output to a file. Note: the user key is not saved into the file, so it is up to the user where he or she will store it. 
